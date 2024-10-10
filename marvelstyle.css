@@ -1,0 +1,90 @@
+h1, h2 {
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 40px;
+}
+
+.div1 {
+    background-color: blue;
+    border-radius: 35px;
+    padding-bottom: 5px;
+    padding-top: 50px;
+}
+
+.information {
+    margin-top: -30px;
+    color: white;
+}
+
+.divp {
+    margin-top: 65px;
+}
+
+.div1 p {
+color: white;
+}
+
+h1 {
+    font-size: 70px;
+    margin-top: 15px;
+    color: blue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: -40px;
+}
+
+.information {
+    font-size: 60px;
+}
+ h2 {
+    font-size: 55px;
+ }
+
+ .link {
+    font-size: 35px;
+ }
+
+ blockquote {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+ }
+
+ ul li {
+    font-size: 40px;
+ }
+
+ ol li {
+    font-size: 40px;
+ }
+
+table, tr, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 60px;
+    width: 90%;
+    height: auto;
+    margin-left: 50px;
+}
+
+th {
+    background-color: blue;
+}
+
+td {
+    background-color: rgba(230, 236, 241, 0.66);
+}
