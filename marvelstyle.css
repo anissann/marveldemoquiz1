@@ -61,6 +61,7 @@ p {
     text-align: center;
     margin-bottom: 30px;
     font-size: 30px;
+    color: blue;
  }
 
  ul li {
@@ -87,4 +88,8 @@ th {
 
 td {
     background-color: rgba(230, 236, 241, 0.66);
+}
+
+a {
+    color: blue;
 }
